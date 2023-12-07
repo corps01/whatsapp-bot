@@ -26,25 +26,3 @@ connectToWhatsApp(
   }
 );
 ```
-
-```
-
-Replace `"recipientNumber"` with the actual recipient's phone number.
-
-## Callback Functions
-
-### `alGenerarQR`
-
-This callback function is invoked when a QR code is generated for authentication.
-
-### `alRecibirMensajes`
-
-This callback function is invoked when a new message is received. It provides the content of the message and the sender's information.
-
-### `alEstablecerConexion`
-
-This callback function is invoked when the connection to WhatsApp is established
-
-```
-
-### - Omar Corpus
